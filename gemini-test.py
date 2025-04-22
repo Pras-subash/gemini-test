@@ -1,3 +1,11 @@
+# ============================================================
+# File: gemini-test.py
+# Author: Prasanna Subash
+# Purpose: This script implements a chatbot powered by the Gemini API.
+#          It allows users to interact with the chatbot in a conversational
+#          manner using the Gemini generative AI model.
+# ============================================================
+
 import google.generativeai as genai
 import os
 from dotenv import load_dotenv
